@@ -1,6 +1,8 @@
 package de.pvphub.statusplugin;
 
-public class MainActivity {
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class MainActivity extends JavaPlugin {
 
 	public void onEnable() {
 		
