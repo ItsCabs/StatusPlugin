@@ -1,0 +1,9 @@
+name: StatusPlugin
+version: 1.0.0
+author: ProgrammingPanda
+main: de.pvphub.statusplugin.MainActivity
+commands:
+   change:
+   addorder:
+   status:
+      
